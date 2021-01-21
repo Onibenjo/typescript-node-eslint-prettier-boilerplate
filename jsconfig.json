@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src" /* Base directory to resolve non-absolute module names. */,
+    "paths": {
+      "controllers": ["controllers/*"],
+      "@controllers/*": ["controllers/*"],
+      "@routes/*": ["routes/*"],
+      "routes": ["routes/*"],
+      "@services/*": ["services/*"],
+      "@models/*": ["models/*"]
+    }
+  }
+}
