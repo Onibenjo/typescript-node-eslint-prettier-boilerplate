@@ -1,5 +1,5 @@
 {
-  "name": "amweak-api",
+  "name": "typescript-node-eslint-prettier-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aorthar/amweak-api.git"
+    "url": "git+https://github.com/Onibenjo/typescript-node-eslint-prettier-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aorthar/amweak-api/issues"
+    "url": "https://github.com/Onibenjo/typescript-node-eslint-prettier-boilerplate/issues"
   },
-  "homepage": "https://github.com/Aorthar/amweak-api#readme",
+  "homepage": "https://github.com/Onibenjo/typescript-node-eslint-prettier-boilerplate#readme",
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
